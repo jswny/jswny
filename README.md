@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Stats Overview](https://github.com/jswny/github-stats/blob/master/generated/overview.svg)
+![Stats Languages](https://github.com/jswny/github-stats/blob/master/generated/languages.svg)
 
 <!--
 **jswny/jswny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
