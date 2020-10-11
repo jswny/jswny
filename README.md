@@ -1,6 +1,5 @@
 ### Joe Sweeney 👋
-![Stats Overview](https://github.com/jswny/github-stats/blob/master/generated/overview.svg)
-![Stats Languages](https://github.com/jswny/github-stats/blob/master/generated/languages.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jswny&count_private=true&show_icons=true)
 
 - 💬 Ask me about programming languages
 - ⚡Check out my website
