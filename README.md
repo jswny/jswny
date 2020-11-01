@@ -1,9 +1,12 @@
 ## Joe Sweeney 👋
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jswny&count_private=true&show_icons=true)
 
-#### What I'm Working on
-- [Rewriting my deployment process in Go](https://github.com/jswny/sad/pull/14)
+#### What I'm Working On
+- [Adding Homebrew support](https://github.com/jswny/brewster) to my [custom deployment tool](https://github.com/jswny/sad)
+
+#### What I've Recently Done
+- [Rewrote my custom deployment tool in Go](https://github.com/jswny/sad/pull/14)
 
 #### About Me
 - 💬 Ask me about programming languages
-- ⚡Check out my website
+- ⚡ Check out my website
