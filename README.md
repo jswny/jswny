@@ -2,6 +2,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jswny&count_private=true&show_icons=true)
 
 #### What I'm Working On
+- My [Discord Bot](https://github.com/jswny/edgybot)
 - [Adding Homebrew support](https://github.com/jswny/sad/pull/21) to my [custom deployment tool](https://github.com/jswny/sad)
 - My [dotfiles](https://github.com/jswny/dotfiles)
 
