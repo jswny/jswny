@@ -3,7 +3,6 @@
 
 #### What I'm Working On
 - My [Discord Bot](https://github.com/jswny/edgybot)
-- [Adding Homebrew support](https://github.com/jswny/sad/pull/21) to my [custom deployment tool](https://github.com/jswny/sad)
 - My [dotfiles](https://github.com/jswny/dotfiles)
 
 #### What I've Recently Done
